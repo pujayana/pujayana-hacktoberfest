@@ -1,1 +1,1 @@
-## <img alt="hacktoberfest9" src="https://github.com/pujayana/pujayana/blob/master/assets/hacktoberfest9/virtual-background-hacktoberfest9.png">
+## <img alt="hacktoberfest9" src="https://github.com/pujayana/pujayana/blob/main/assets/hacktoberfest9/virtual-background-hacktoberfest9.png">
