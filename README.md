@@ -5,4 +5,5 @@ List contribution to celebrate [Hacktoberfest](https://hacktoberfest.com "Hackto
 [`Mario Anjeliko`](https://gitlab.com/marioanjeliko "Mario Anjeliko Gitlab")
 [`Gesha Ary`](https://github.com/GeshaAry "Gesha Github")
 [`Alit Indrawan`](https://github.com/Alitindrawan24 "Alit Github")
+[`Ari Surya`](https://github.com/arisurya7 "Ari Github")
 [`Guest`](https://github.com/ "Guest Github")
