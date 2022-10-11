@@ -7,4 +7,5 @@ List contribution to celebrate [Hacktoberfest](https://hacktoberfest.com "Hackto
 [`Alit Indrawan`](https://github.com/Alitindrawan24 "Alit Github")
 [`Ari Surya`](https://github.com/arisurya7 "Ari Github")
 [`Jackie`](https://github.com/hackerninenine99 "Jackie Github")
+[`Riki`](https://github.com/RikiSptraaa "Riki Eprilion Github")
 [`Guest`](https://github.com/ "Guest Github")
